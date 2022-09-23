@@ -1,0 +1,35 @@
+[{
+    "name": "Storm",
+    "description": "Teclado mecánico 75% pre-ensamblado color azul con detalles en violeta. Switches Linear Red",
+    "price": 30000,
+    "imagen": "media/Teclado1.jpg",
+    "id": 1
+},
+{
+    "name": "Tokyo",
+    "description": "Teclado mecánico 75% pre-ensamblado color blanco con detalles en rojo. Switches Linear Red",
+    "price": 32000,
+    "imagen": "media/Teclado2.jpg",
+    "id": 2
+},
+{
+    "name": "Clear Forest",
+    "description": "Teclado mecánico bluetooth 75% pre-ensamblado color blanco con detalles en verde oscuro. Switches Linear Platinium",
+    "price": 29000,
+    "imagen": "media/Teclado3.jpg",
+    "id": 3
+},
+{
+    "name": "Orange",
+    "description": "Teclado mecánico 75% pre-ensamblado color blanco con detalles naranjas y negro. Switches Optic Red",
+    "price": 40000,
+    "imagen": "media/Teclado4.jpg",
+    "id": 4
+},
+{
+    "name": "Aqua",
+    "description": "Teclado mecánico 75% pre-ensamblado color verde agua. Switches Linear Brown",
+    "price": 27000,
+    "imagen": "media/Teclado5.jpg",
+    "id": 5
+}]
